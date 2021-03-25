@@ -8,4 +8,4 @@ by using this script
 I originally wrote this script cause i struggled with deeppavlov module with Bert for NLP.
 It seems to be a good option to fix this issue. Make a try.
 
-You can easily modify it to use it with any tensorflow based modules.
+You can easily modify it to use it with any tensorflow based module.
